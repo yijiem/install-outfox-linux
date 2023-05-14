@@ -6,7 +6,7 @@ err() {
 
 if [[ -z "$1" ]]; then
   err "OutFox tarball not specifed"
-  err "Usage: $@ <OutFox-*.tar.gz>"
+  err "Usage: $0 <OutFox-*.tar.gz>"
   exit 1
 fi
 
