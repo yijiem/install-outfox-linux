@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=OutFox
+StartupWMClass=outfox
+Comment=Project OutFox is an extensible rhythm game engine based on StepMania, featuring 18 different modes simulating different dance, instrument, and key-based rhythm games.
+GenericName=Rhythm game engine
+Exec=/usr/share/outfox/OutFox
+Icon=/usr/share/outfox/outfox.png
+Type=Application
+Categories=Game
+Path=/usr/bin
